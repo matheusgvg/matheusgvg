@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/A6bWGFl.gif" width="100%" />
 </p>
 
-<h1 align="center">✨ Olá, eu sou o Matheus (Shiroi) 👋</h1>
+<h1 align="center">✨ Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
   🎓 Estudante de Desenvolvimento de Sistemas no SENAI <br>
@@ -97,7 +97,7 @@
   <a href="mailto:shiroicrypto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-vieira-273904374/">
+  <a href="https://www.linkedin.com/in/matheusgvg/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/math_gus">
