@@ -10,14 +10,14 @@
   💾 Atualmente aprendendo Desenvolvimento de Sistemas (Java, etc...) <br>
   💻 Foco em JavaScript e Node.js <br>
   🚀 Criador do projeto <strong>Sussuros Paranormais</strong> <br>
-  🌐 Site em construção: <a href="https://shiroi-portfolio.vercel.app">Clique aqui</a> <br>
+  🌐 Portifolio: <a href="https://matheus-portfolio.vercel.app">Clique aqui</a> <br>
 </p>
 
 ---
 
 ### ⌨️ Digitação Automática:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Shiroi!;Estudante+de+Dev+no+SENAI.;Amante+de+JavaScript+e+Node.js;SQL+e+SQLite+na+veia!;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Matheus!;Estudante+de+Dev+no+SENAI.;Amante+de+JavaScript+e+Node.js;SQL+e+SQLite+na+veia!;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ---
